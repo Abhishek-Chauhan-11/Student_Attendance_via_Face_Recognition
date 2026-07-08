@@ -2,6 +2,7 @@ ABOUT
 The Student Attendance Via Face Recognition is a python based project application, which automates student attendance tracking and monitoring. Built on Tkinter GUI and Pandas, the system successfully captures student face and records attendance into a .csv file. This application automates the traditional student attendance process using Computer Vision. By leveraging facial recognition, the system identifies students in real-time and logs their attendance automatically, reducing manual overhead and eliminating proxy attendance.
 
 TECHNICAL ASPECTS
+
 ->Language: Python
 
 ->Computer Vision: OpenCV
